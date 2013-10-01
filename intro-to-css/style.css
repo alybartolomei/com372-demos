@@ -1,0 +1,29 @@
+/* Text styles here */
+
+.preamble {
+	background-color: yellow;
+}
+
+#zen-summary p {
+	color: black;
+}
+
+#p p{
+	color: navy;
+}
+
+p {
+	color: red;
+	border: 1px solid black;
+
+h1 {
+	color: blue;
+	background-color: gray;
+}
+
+h2 {
+	color: green;
+}
+
+
+
